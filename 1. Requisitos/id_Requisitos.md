@@ -8,13 +8,13 @@ As tabelas abaixo, são o modelo de identificação de Requisitos ao longo de to
 
 |_Termos_|_Conteúdo_|
 |---|---|
-|**Nome**||
+|**Nome**|Cadastro de Usário|
 |**Identificador**| RF01|
-|**Importância** | |
-|**Ator Primário**| |
+|**Importância** | Primordial|
+|**Ator Primário**|Usuário|
 |**Atores Secundários**|  |
-|**Pré-condições**| |
-|**Fluxo Principal**|  |
+|**Pré-condições**|O site deverá estar em funcionamento|
+|**Fluxo Principal**| O usuário irá entrar no sistema e realisar o cadastro, com todos os dados solicitados. |
 |**Fluxos Alternativos**||
 |**Fluxos de Exceção**||
 |**Pós-condições**||
@@ -41,7 +41,7 @@ As tabelas abaixo, são o modelo de identificação de Requisitos ao longo de to
 |_Termos_|_Conteúdo_|
 |---|---|
 |**Nome**||
-|**Identificador**| RF03|
+|**Identificador**| R03|
 |**Importância** | |
 |**Ator Primário**| |
 |**Atores Secundários**|  |
