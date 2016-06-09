@@ -1,0 +1,2 @@
+##Info
+Esta pasta, _**3-Definição_Trabalho_Final**_, foi criada com o intuito de facilitar a todos os integrantes do grupo, a visualização do que é para ser feito e como deve ser feito. Todos os arquivos disponibilizados pelo professor no [SIGAA](https://sigaa.sistemas.ufg.br), serão convertidos em PDF e colocados nessa pasta.
