@@ -32,7 +32,7 @@ A proposta do Projeto é o exercitar a utilização da ferramenta, por todos os 
 
 ###Acompanhamento das Atividades do Projeto
 
-As atividades desenvolvidas e o andamento do projeto poderão ser acompanhadas através do quadro público do trello. Para acessar e verificar o andamento da realização das tarefas [clique aqui]().
+As atividades desenvolvidas e o andamento do projeto poderão ser acompanhadas através do quadro público do trello. Para acessar e verificar o andamento da realização das tarefas [clique aqui](https://trello.com/b/OJDWiOof).
 
 ### Agradecimentos
 
