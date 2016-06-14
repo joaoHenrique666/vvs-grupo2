@@ -47,4 +47,4 @@ Professor [Gilmar Ferreira Arantes](mailto:gilmar.arantes@ufg.br).
 
 * Seguir a Descrição do Trabalho Final no arquivo **'_descricaoTarefaAula160608.odt_'**;
 * Para descrever os Requisitos, usar como base o arquivo **_templateDescricaoCasoUso.odt_**;
-* Ambos arquivos estão disponibilizados no [SIGAA - UFG](https://sigaa.sistemas.ufg.br) na disciplina "VERIFICAÇÃO E VALIDAÇÃO" e na pasta [**_3-Definição_Trabalho_Final_**](https://github.com/joaoHenrique666/vvs-grupo2/tree/master/3-Defini%C3%A7%C3%A3o_Trabalho_Final).
+* Ambos arquivos estão disponibilizados no [SIGAA - UFG](https://sigaa.sistemas.ufg.br) na disciplina "VERIFICAÇÃO E VALIDAÇÃO" e na pasta [**_3. Definição_Trabalho_Final_**](https://github.com/joaoHenrique666/vvs-grupo2/tree/master/3.%20Defini%C3%A7%C3%A3o_Trabalho_Final).
