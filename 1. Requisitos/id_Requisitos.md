@@ -1,6 +1,7 @@
 #Documentação de Requisitos
 
 Os requisitos serão documentados na Forma de Casos de Uso, baseado no template disponibilizado pelo Professor Gilmar, como citado anteriormente no README.md.
+* **Os Casos de Uso foram disponibilizados pelo Professor Gilmar e se encontram na pasta _Casos de Uso - Professor_**.
 
 ##Requisitos identificados
 

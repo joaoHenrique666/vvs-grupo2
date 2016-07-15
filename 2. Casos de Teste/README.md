@@ -8,4 +8,4 @@ No diagrama a seguir, por exemplo, os vários caminhos através de um caso de us
 
 ##Casos de Teste
 
-**Os casos de Teste Realacionados aos Casos de Uso (De 1 ao 9), se encontram listados 1 por documento nesta pasta.**
+**Os Casos de Teste Relacionados aos Casos de Uso (De 1 ao 9), se encontram listados em cada documento nesta pasta, com o nome "CT[nº]".**
