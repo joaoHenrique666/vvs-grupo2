@@ -1,4 +1,5 @@
 # Trabalho Final - VVS Grupo 2
+####**Para acessar os links contidos no Plano de Teste no formato PDF, favor realizar o _Download_ do Mesmo, uma vez que o arquivo em PDF no Github só nos dá a opção de visualização e não podemos clicar e automáticamente, sermos direcionados para o link.**
 Repositório criado para a disciplina de Verificação e Validação, UFG 2016/1
 
 ##Instituto de Informática - Universidade Federal de Goiás
